@@ -1,0 +1,11 @@
+.git/
+.claude/
+.next/
+.vercel/
+node_modules/
+out/
+coverage/
+01 Source/
+*.tsbuildinfo
+.env
+.env*.local
